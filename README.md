@@ -14,7 +14,7 @@
 
 ```
 > whoami
-Pau — BS student at Polytechnic University of the Philippines (PUP)
+Pau — A student at Polytechnic University of the Philippines (PUP)
 
 > current_focus
 Building HOG-SAFE: a booking + biosecurity monitoring web app
