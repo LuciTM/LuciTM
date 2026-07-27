@@ -27,7 +27,7 @@ Full-stack development • RESTful APIs • occasional UI/UX detours
 Still exploring new tools across the whole stack — backend, frontend, and design
 ```
 
-📫 **Reach me:** pollyuyt9l@gmail.com
+📫 **Reach me:** pollyuyt9@gmail.com
 
 <br>
 
