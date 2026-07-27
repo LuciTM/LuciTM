@@ -14,7 +14,7 @@
 
 ---
 
-### 🧑‍💻 About Me
+### 💻 About Me
 
 - 🎓 Currently working on **HOG-SAFE**, a web-based booking and biosecurity monitoring system for hog AI technician deployment
 - 🛠️ I build **RESTful APIs** and full-stack web applications
