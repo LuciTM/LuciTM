@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer crafting APIs, interfaces, and everything that connects them</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+RESTful+APIs;Turning+coffee+into+code;BS+Student+at+PUP;Currently+shipping+HOG-SAFE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=550&lines=Building+RESTful+APIs;Turning+coffee+into+code;Student+at+PUP;Currently+shipping+HOG-SAFE" alt="Typing SVG" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=LuciTM&style=flat-square&color=6C63FF" alt="Profile views" />
